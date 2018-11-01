@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# Except
+!docker/
+!.gitignore
+!container.sh
+!docker-compose.yml
